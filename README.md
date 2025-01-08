@@ -5,5 +5,5 @@ one of the oldest language int the coding languages
 ## {
 ## int x;
 ## printf("enter the data");
-##scanf("%d",&x);
+## scanf("%d",&x);
 
